@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+About me:
+
+I'm working on front-end development, primarily.
+I'm passionate about open source and knowledge sharing.
+
 <!--
 **518luck/518luck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
