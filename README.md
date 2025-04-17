@@ -8,6 +8,8 @@
 **My technology stack:** 
 
  <div>
+  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-087ea4?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
