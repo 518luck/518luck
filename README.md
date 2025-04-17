@@ -5,6 +5,8 @@ About me:
 - I'm working on front-end development, primarily.
 - I'm passionate about open source and knowledge sharing.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=518luck)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **518luck/518luck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
