@@ -14,10 +14,4 @@ const programmer = {
 
 **Tech Stack:**
 
-<img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/-React-087ea4?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-React-087ea4?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
